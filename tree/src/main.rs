@@ -1,6 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
+
 use indextree::{Arena, NodeId};
 use sysinfo::{ProcessExt, System, SystemExt};
 use std::collections::HashMap;
